@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "123686799428ffc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb1263979133fa94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "125e73dba248dea2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a091286142fc47ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "2be4e5cca3d2dfc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cc93a17bb134928",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f2d6833bbb3aef3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1976d302cdde0e6a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8bbe2b207ac9d340",
+    "type": "split",
+    "children": [
+      {
+        "id": "d80a401390a3a94e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64109674dcfeb958",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0210ca56cfd604df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ec9495e524aee7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "079a231159d9f41b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4569eb18971ebd32",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "125e73dba248dea2",
+  "lastOpenFiles": [
+    "Lecture/3_logistic_regression.pdf",
+    "Exercise/exercise 3/Exercise3.pdf",
+    "Exercise/exercise 3/Exercise 3(Yuhao Liu2030033035).md",
+    "Lecture/4.1_neural_networks.pdf",
+    "Lecture/4.2_activation_loss_function.pdf",
+    "Lecture/2_linear_regression.pdf",
+    "README.md",
+    "参考答案/ML-homework/ex2-logistic regression/ex2.pdf",
+    "Lecture/1_introduction.pdf",
+    "参考答案/ML-homework/ex8-anomaly detection and recommendation/img/regularized_gradient.png",
+    "参考答案/ML-homework/ex8-anomaly detection and recommendation/img/regularized_cost.png",
+    "参考答案/ML-homework/ex8-anomaly detection and recommendation/img/gradient.png",
+    "参考答案/ML-homework/ex8-anomaly detection and recommendation/img/cost.png",
+    "参考答案/ML-homework/ex8-anomaly detection and recommendation/img/Gaussian_distribution.png",
+    "参考答案/ML-homework/ex8-anomaly detection and recommendation/img/F1_score.png",
+    "参考答案/ML-homework/ex8-anomaly detection and recommendation/data/movie_ids.txt",
+    "参考答案/ML-homework/ex8-anomaly detection and recommendation/data/ex8data2.mat",
+    "参考答案/ML-homework/ex8-anomaly detection and recommendation/data/ex8data1.mat",
+    "参考答案/ML-homework/ex7-kmeans and PCA/img/sigma.png",
+    "参考答案/ML-homework/ex7-kmeans and PCA/data/bird_small.png",
+    "参考答案/ML-homework/ex6-SVM/img/rbf_kernel.png",
+    "参考答案/ML-homework/ex6-SVM/img/gaussian.png",
+    "参考答案/ML-homework/doc/markdown/week9.md",
+    "参考答案/ML-homework/doc/markdown/week8.md",
+    "参考答案/ML-homework/doc/markdown/week7.md",
+    "参考答案/ML-homework/doc/markdown/week6.md",
+    "参考答案/ML-homework/doc/markdown/week5.md",
+    "参考答案/ML-homework/doc/markdown/week4.md",
+    "参考答案/ML-homework/doc/markdown/week3.md",
+    "参考答案/ML-homework/doc/markdown/week2.md",
+    "参考答案/ML-homework/doc/markdown/week10.md",
+    "参考答案/ML-homework/doc/markdown/week1.md",
+    "参考答案/ML-homework/doc/markdown/math.md",
+    "参考答案/ML-homework/doc/markdown/SUMMARY.md",
+    "参考答案/ML-homework/doc/markdown/2.CS229-Prob.md",
+    "参考答案/ML-homework/doc/markdown/1.CS229-LinearAlgebra.md",
+    "参考答案/ML-homework/README.md"
+  ]
+}
